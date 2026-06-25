@@ -1,0 +1,7 @@
+# Python dependencies for the analysis/reproducibility scripts (Python 3.9+).
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+pymupdf
