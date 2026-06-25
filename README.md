@@ -6,7 +6,7 @@ Analysis and reproducibility code for the paper:
 > Heterogeneous Geolocation: A Reproducible Real-Data Evaluation.* Under review,
 > PeerJ Computer Science, 2026.
 
-Archived release: Zenodo DOI [10.5281/zenodo.20790513](https://doi.org/10.5281/zenodo.20790513).
+Archived on Zenodo (all versions): concept DOI [10.5281/zenodo.20790512](https://doi.org/10.5281/zenodo.20790512), which always resolves to the latest version.
 
 ## Description
 
@@ -98,7 +98,7 @@ If you use this code, please cite the paper and the datasets:
 
 - Deshpande, C. R. (2026). *Reassessing Innovation-Driven Adaptive Sensor Fusion for
   Heterogeneous Geolocation: A Reproducible Real-Data Evaluation.* Under review, PeerJ Computer
-  Science. Code archive: Zenodo, DOI 10.5281/zenodo.20790513.
+  Science. Code archive: Zenodo, concept DOI 10.5281/zenodo.20790512.
 - Torres-Sospedra, J. et al. (2020). *IPIN 2020 Competition Track 3 datasets and supporting
   materials.* Zenodo. DOI 10.5281/zenodo.4314992.
 - Alhomayani, F.; Mahoor, M. H. (2021). *OutFin: A multi-device and multi-modal dataset for

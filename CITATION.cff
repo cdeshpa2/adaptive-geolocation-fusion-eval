@@ -7,8 +7,8 @@ authors:
     orcid: "https://orcid.org/0009-0008-7780-0221"
     affiliation: "Plaster Graduate School of Business, University of the Cumberlands"
 license: MIT
-version: "v1.0.0"
-doi: "10.5281/zenodo.20790513"
+version: "v1.0.1"
+doi: "10.5281/zenodo.20790512"
 repository-code: "https://github.com/cdeshpa2/adaptive-geolocation-fusion-eval"
 keywords:
   - geolocation
